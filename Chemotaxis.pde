@@ -1,4 +1,4 @@
-int nBacteria = 5000;
+int nBacteria = 50000;
 int nFood = 10;
 int livingFood = nFood;
 boolean foodLeft = true;
