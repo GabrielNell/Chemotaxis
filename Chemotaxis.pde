@@ -6,7 +6,7 @@ Bacterium [] colony;
 Food [] noms; // don't question the name
 
 void setup() {
-  size(1200, 700);
+  size(900, 600);
   noStroke();
   colony = new Bacterium[nBacteria]; // array of bacteria & array of foods
   noms = new Food[nFood];
