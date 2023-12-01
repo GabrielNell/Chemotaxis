@@ -179,7 +179,7 @@ class Food {
   Food() {
     x = (int)(width*Math.random());
     y = (int)(height*Math.random());
-    lifetime = 40000; // remember this will update every 30th of a second so must be large number
+    lifetime = 400000; // remember this will update every 30th of a second so must be large number
     numEating = 0;
     diameter = 40;
     alive = true;
