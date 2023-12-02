@@ -1,4 +1,4 @@
-int nBacteria = 5000;
+int nBacteria = 300;
 int nFood = 10;
 int livingFood = nFood;
 boolean foodLeft = true;
@@ -179,7 +179,7 @@ class Food {
   Food() {
     x = (int)(width*Math.random());
     y = (int)(height*Math.random());
-    lifetime = 40000; // remember this will update every 30th of a second so must be large number
+    lifetime = 7500; // remember this will update every 30th of a second so must be large number
     numEating = 0;
     diameter = 40;
     alive = true;
