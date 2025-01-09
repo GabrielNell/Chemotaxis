@@ -1,3 +1,5 @@
+// This is the project that was submitted, as it actually meets the requirements set for the project; take a look if you would like, and rest assured that the code executes
+
 int nBacteria = 300;
 int nFood = 10;
 int livingFood = nFood;
